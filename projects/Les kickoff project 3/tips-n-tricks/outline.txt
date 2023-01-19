@@ -1,0 +1,13 @@
+
+Uitgangspunt: simpel
+
+
+1. Main opzetten
+
+2. Module importeren
+
+3. Logger opzetten
+
+4. Unit test opzetten
+
+5. Unit test uitvoeren
